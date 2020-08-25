@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T07:16:27.473Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="0M47pgxpUYXo_a0E63Z3" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T13:46:44.245Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="uwWMBdsE4mX9c1oMrHnC" version="13.6.4" type="github">
   <diagram id="54_vHPgjPKhFxsCjimJt" name="Page-1">
-    <mxGraphModel dx="1340" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="3287" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sKmsqUAOTzjWbk1gsBBU-13" value="SERVICIOS api Rest" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="103.97" y="340" width="660" height="110" as="geometry" />
+          <mxGeometry x="110" y="340" width="660" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="sKmsqUAOTzjWbk1gsBBU-20" value="WEB&lt;br&gt;API_REST" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" parent="sKmsqUAOTzjWbk1gsBBU-13" vertex="1">
-          <mxGeometry x="86.18" y="10" width="60" height="60" as="geometry" />
+        <mxCell id="sKmsqUAOTzjWbk1gsBBU-20" value="WEB&lt;br&gt;API_REST&lt;br&gt;autenticacion." style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" parent="sKmsqUAOTzjWbk1gsBBU-13" vertex="1">
+          <mxGeometry x="118.18" y="4" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sKmsqUAOTzjWbk1gsBBU-14" value="PRESENTACION" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#00882B;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="103.97" y="190" width="660" height="140" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="sKmsqUAOTzjWbk1gsBBU-22" value="app&lt;br&gt;Finanzas&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/model.svg;" parent="sKmsqUAOTzjWbk1gsBBU-14" vertex="1">
           <mxGeometry x="536.03" y="40" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GihSI_WpWNIZn1ZTezRq-3" value="gestion inmobiliaria&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/model.svg;" vertex="1" parent="sKmsqUAOTzjWbk1gsBBU-14">
+        <mxCell id="GihSI_WpWNIZn1ZTezRq-3" value="gestion &lt;br&gt;inmobiliaria" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/model.svg;" vertex="1" parent="sKmsqUAOTzjWbk1gsBBU-14">
           <mxGeometry x="216.03" y="30" width="60" height="65" as="geometry" />
         </mxCell>
         <mxCell id="GihSI_WpWNIZn1ZTezRq-4" value="gestion&amp;nbsp;&lt;br&gt;Rentacar&amp;nbsp;&lt;br&gt;sala de Ventas&lt;br&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/data/model.svg;" vertex="1" parent="sKmsqUAOTzjWbk1gsBBU-14">
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="GihSI_WpWNIZn1ZTezRq-5" value="servicios, configuracion,&amp;nbsp;&lt;br style=&quot;font-size: 21px;&quot;&gt;comunicacion." style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="470" width="139" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="GihSI_WpWNIZn1ZTezRq-7" value="WEB&lt;br&gt;API_REST&lt;br&gt;registros" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/security/api_security.svg;" vertex="1" parent="1">
+          <mxGeometry x="558.1800000000001" y="344" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
